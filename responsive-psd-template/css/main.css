@@ -1,0 +1,160 @@
+body {
+	width: 100%;
+	margin: 0%;
+	font-family: Montserrat;
+}
+
+nav {
+	box-sizing: border-box;
+	height: 9.5vw;
+	padding-left: 5.2vw;
+	padding-top: 4.1vw;
+	background-color: #373C3F;
+}
+
+nav a {
+	float: left;
+	margin-right: 2.9vw;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 1.4vw;
+	color: #EBEBEB;
+}
+
+nav a:hover {
+	color: #FFF;	
+}
+
+#selected {
+	color: #FFF;
+}
+
+header {
+	box-sizing: border-box;
+	height: 56.3vw;
+	padding-left: 8.1vw;
+	padding-right: 19.5vw;
+	padding-top: 19.0vw;
+	background: linear-gradient(to top left, #078AA4, #19B4C6);
+}
+
+h1 {
+	margin: 0%;
+	font-size: 5.9vw;
+	line-height: 1.1;
+	color: #FFF;
+}
+
+header div {
+	box-sizing: border-box;
+	height: 21.5vw;
+	margin-top: 4.4vw;
+}
+
+header p {
+	float: left;
+	margin: 0%;
+	font-size: 3.4vw;
+	font-weight: bold;
+	color: #A7D6E0;
+}
+
+header a {
+	margin-left: 29.3vw;
+	float: left;
+}
+
+header img {
+	margin: 30%;
+	width: 2.5vw;
+	height: 2.7vw;
+}
+
+.info {
+	height: 23.7vw;
+}
+
+.info h2 {
+	box-sizing: border-box;
+	width: 77.6vw;
+	height: 100%;
+	float: left;
+	margin: 0%;
+	padding: 10.3vw 8.6vw;
+	background-color: #27212C;
+	font-size: 2.9vw;
+	color: #9787A6;
+}
+
+.info a {
+	box-sizing: border-box;
+	height: 100%;
+	float: left;
+	padding: 10.3vw 9.5vw;
+	background-color: #BC3183;
+}
+
+.info img {
+	width: 3.4vw;
+	height: 3.5vw;
+}
+
+.gallery {
+	height: 28.8vw;
+}
+
+.gallery a {
+	box-sizing: border-box;
+	width: 33.4vw;
+	height: 100%;
+	float: left;
+	padding: 12.9vw 15.3vw;
+	background-color: #5B0FA1;
+}
+
+.gallery a img {
+	width: 2.7vw;
+	height: 2.9vw;
+}
+
+.gallery img {
+	height: 100%;
+	width: 33.3vw;
+	float: left;
+}
+
+.article {
+	box-sizing: border-box;
+	height: 54.9vw;
+	padding: 5.1vw 7.5vw;
+	background-color: #EBEBEB;
+}
+
+.article h2 {
+	margin: 0%;
+	margin-bottom: 2.0vw;
+	font-size: 2.9vw;
+	color: #088CA5;
+}
+
+.article div {
+	width: 39.9vw;
+	float: left;
+}
+
+.article div:first-of-type {
+	margin-right: 5.1vw;
+}
+
+.article p {
+	margin: 0%;
+	font-size: 1.4vw;
+	font-weight: bold;
+	line-height: 1.8;
+	color: #515151;
+}
+
+.article div p:first-of-type {
+	margin-bottom: 3.7vw;
+}
+
